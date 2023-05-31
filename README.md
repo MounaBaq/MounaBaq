@@ -1,10 +1,8 @@
 <h1 align="center">Hello 👋, You can call me Moon </h1>
 
-[![MasterHead](https://www.womeninanalyticsanddata.com/wp-content/uploads/2021/04/ScreenHunter-414.png)
+[![MasterHead](https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif)
 
 <h3 align="center">A former financial advisor stepping into the world of Data, Recently moved to Canada.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounabaq&label=Profile%20views&color=0e75b6&style=flat" alt="mounabaq" /> </p>
 
 - 🔭 I’m currently working on [8 Week SQL Challenge](https://github.com/MounaBaq/8_Week_Sql_Challenge)
