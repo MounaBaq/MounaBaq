@@ -1,6 +1,5 @@
-### Hi there 👋
-![MasterHead](https://www.womeninanalyticsanddata.com/wp-content/uploads/2021/04/ScreenHunter-414.png)
 <h1 align="center">Hello 👋, I'm Mouna</h1>
+![MasterHead](https://www.womeninanalyticsanddata.com/wp-content/uploads/2021/04/ScreenHunter-414.png)
 <h3 align="center">A former financial advisor stepping into the world of Data, Recently moved to Canada.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif">
 
