@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, You can call me Moon </h1>
 
-[![MasterHead](https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif)
+![MasterHead](https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif)
 
 <h3 align="center">A former financial advisor stepping into the world of Data, Recently moved to Canada.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounabaq&label=Profile%20views&color=0e75b6&style=flat" alt="mounabaq" /> </p>
